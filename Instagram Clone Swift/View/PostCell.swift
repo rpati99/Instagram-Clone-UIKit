@@ -64,11 +64,7 @@ class PostCell: UICollectionViewCell {
                   default:
                        timeText = ""
                 }
-                
-
-                
-                
-                
+ 
                 timeStampLabel.text = timeText
             }
             
