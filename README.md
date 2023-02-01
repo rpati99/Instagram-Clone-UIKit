@@ -1,6 +1,9 @@
 # InstagramClone-UIKit
 
-Made with programmatic approach and Firebase for backend. 
+Made with:-
+UIKit, no storyboards
+Firebase for backend
+Image caching, etc. 
 
 ![](ezgif-3-7422e7249509.gif)
 ![](ezgif-3-d60de85bafe1.gif)
